@@ -1,0 +1,19 @@
+void backAsearch( int a , int b )
+{
+    int k , l , dx , dy ;
+    mar[ a ][ b ] = 1 ;                                                      // 标记为已走。
+
+    for( int i = -1 ; i <= 1 ; i++ )
+    {
+        for( int j = -1 ; j <= 1 ; j++ )
+        {
+            k = a + i ;
+            l = b + j ;
+            if( k >= 0 && k <= ( n - 1 ) && l >= 0 && l <= ( m - 1 ) && ( array[ k ][ l ] == 'W' ) && ( mar[ k ][ l ] == 0 ) )   //搜过的地方不要再搜。
+            {
+                backAsearch( k , l ) ;
+            }
+        }
+    }
+    return ;                                            
+}

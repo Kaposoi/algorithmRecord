@@ -1,0 +1,35 @@
+将 1, 2, \ldots , 91,2,…,9 共 99 个数分成 33 组，分别组成 33 个三位数，且使这 33 个三位数构成 1 : 2 : 31:2:3 的比例，试求出所有满足条件的 33 个三位数。
+
+#include<iostream>
+using namespace std;
+int caluateS(int i)
+{
+    int a=i%10;
+    int b=i/10%10;
+    int c=i/100%10;
+    int d=a+b+c;
+    return d;
+}
+
+int caluateX(int i)
+{
+    int a=i%10;
+    int b=i/10%10;
+    int c=i/100%10;
+    int d=a*b*c;
+    return d;
+}
+
+
+int main()
+{
+    int x,a,b,c;
+    for(x=123;x<=329;x++)
+    {
+        a=x;
+        b=2*x;
+        c=3*x;
+        if((caluateS(a)+caluateS(b)+caluateS(c)==45) && (caluateX(a)*caluateX(b)*caluateX(c)==362880)) cout<<a<<" "<<b<<" "<<c<<endl;
+    }
+}
+不一定非得先分组，可以先设结果，再提取数字。

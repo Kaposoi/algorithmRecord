@@ -1,0 +1,4 @@
+exit(0)可以提前终止程序。
+
+#include <conio.h>
+#include <stdlib.h>

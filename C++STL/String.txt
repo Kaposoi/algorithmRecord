@@ -1,0 +1,3 @@
+String的擦除(String.erase)
+str.erase(2,4) 从下标为2的开始，一共擦除四个元素。
+str.erase( str.begin() + 2 , str.begin() + 4 ) 从第三个位置开始，擦除到第四个位置。（右边的参数不会被擦除，左开右闭。）

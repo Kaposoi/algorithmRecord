@@ -1,0 +1,702 @@
+[2022-01-02 15:37:36.253] [I] ***************************************************************
+[2022-01-02 15:37:36.254] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-01-02 15:37:36.254] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2022-01-02 15:37:36.254] [I] Cores: 12
+[2022-01-02 15:37:36.254] [I] Elevated: false
+[2022-01-02 15:37:36.254] [I] Main thread id: 0x40ac
+[2022-01-02 15:37:36.254] [I] Log level: 2
+[2022-01-02 15:37:36.254] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-01-02 15:37:36.254] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-01-02 15:37:36.254] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-01-02 15:37:36.254] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-01-02 15:37:36.254] [I] Screen scale: 1
+[2022-01-02 15:37:36.254] [I] Retina factor: 1
+[2022-01-02 15:37:36.254] [I] Screens: 1
+[2022-01-02 15:37:36.254] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-01-02 15:37:36.264] [I] Desktops: 1
+[2022-01-02 15:37:36.264] [I] OpenGL support: true
+[2022-01-02 15:37:36.307] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-01-02 15:37:36.308] [I] Settings imported
+[2022-01-02 15:37:36.310] [I] Breakpad initialized
+[2022-01-02 15:37:36.311] [I] Process priority: 1
+[2022-01-02 15:37:36.311] [I] Initializing Snipaste...
+[2022-01-02 15:37:36.604] [I] Prefetch...
+[2022-01-02 15:37:36.610] [I] Preloaded 20 files: 6 ms
+[2022-01-02 15:37:36.891] [I] Load default ssl configuration: 287 ms
+[2022-01-02 15:37:37.021] [I] About to apply settings...
+[2022-01-02 15:37:37.052] [I] Settings applied
+[2022-01-02 15:37:37.057] [I] Log level set to: 2
+[2022-01-02 15:37:37.074] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-01-02 15:37:37.075] [W] Failed to open history file "F:/E盘/编程学习/一些小软件/snipeer/history/.sp0" for reading
+[2022-01-02 15:37:37.075] [I] Add group
+[2022-01-02 15:37:37.079] [I] Request to switch to group 0
+[2022-01-02 15:37:37.116] [I] About to restore pasters...
+[2022-01-02 15:37:37.116] [I] Group 0 [MDZXKA]: "默认"
+[2022-01-02 15:37:37.116] [I] Record version: 193
+[2022-01-02 15:37:37.116] [I] To restore: 0
+[2022-01-02 15:37:37.116] [I] Pasters touched
+[2022-01-02 15:37:37.116] [I] All pasters activated: true
+[2022-01-02 15:37:37.121] [I] Unref images: 0 (0 removed)
+[2022-01-02 15:37:37.121] [I] Unref dirs: 0 (0 removed)
+[2022-01-02 15:37:37.122] [I] Empty history info files: 0 (0 removed)
+[2022-01-02 15:37:37.122] [I] Pasters restored
+[2022-01-02 15:37:37.122] [I] Launch time: 870 ms
+[2022-01-02 15:37:40.502] [I] Second instance: 1
+[2022-01-02 15:37:47.762] [I] Second instance: 1
+[2022-01-02 15:37:48.462] [I] Second instance: 1
+[2022-01-02 15:37:48.898] [I] Second instance: 1
+[2022-01-02 15:38:38.043] [I] Silent feed checking finished
+[2022-01-02 15:38:38.043] [I] No available update
+[2022-01-02 15:47:37.088] [I] Preloaded 20 files: 6 ms [every 10.0 m]
+[2022-01-02 16:00:07.114] [I] Preloaded 20 files: 14 ms [every 12.5 m]
+[2022-01-02 16:15:45.119] [I] Preloaded 20 files: 15 ms [every 15.6 m]
+[2022-01-02 16:35:17.132] [I] Preloaded 20 files: 6 ms [every 19.5 m]
+[2022-01-02 16:59:42.146] [I] Preloaded 20 files: 5 ms [every 24.4 m]
+[2022-01-02 17:29:42.154] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2022-01-02 17:59:42.184] [I] Preloaded 20 files: 25 ms [every 30.0 m]
+[2022-01-02 18:29:42.185] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2022-01-02 18:59:42.193] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2022-01-02 19:29:42.207] [I] Preloaded 20 files: 15 ms [every 30.0 m]
+[2022-01-02 19:59:42.214] [I] Preloaded 20 files: 17 ms [every 30.0 m]
+[2022-01-02 20:29:42.246] [I] Preloaded 20 files: 22 ms [every 30.0 m]
+[2022-01-02 20:59:42.254] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2022-01-02 21:29:42.259] [I] Preloaded 20 files: 15 ms [every 30.0 m]
+[2022-01-02 21:56:45.153] [I] Second instance: 1
+[2022-01-02 21:59:42.269] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2022-01-02 22:29:42.276] [I] Preloaded 20 files: 15 ms [every 30.0 m]
+[2022-01-18 19:44:02.712] [I] ***************************************************************
+[2022-01-18 19:44:02.714] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-01-18 19:44:02.714] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2022-01-18 19:44:02.714] [I] Cores: 12
+[2022-01-18 19:44:02.714] [I] Elevated: false
+[2022-01-18 19:44:02.714] [I] Main thread id: 0x1ae4
+[2022-01-18 19:44:02.714] [I] Log level: 2
+[2022-01-18 19:44:02.714] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-01-18 19:44:02.714] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-01-18 19:44:02.714] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-01-18 19:44:02.714] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-01-18 19:44:02.714] [I] Screen scale: 1
+[2022-01-18 19:44:02.714] [I] Retina factor: 1
+[2022-01-18 19:44:02.714] [I] Screens: 1
+[2022-01-18 19:44:02.714] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-01-18 19:44:02.723] [I] Desktops: 1
+[2022-01-18 19:44:02.723] [I] OpenGL support: true
+[2022-01-18 19:44:02.768] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-01-18 19:44:02.777] [I] Settings imported
+[2022-01-18 19:44:02.778] [I] Breakpad initialized
+[2022-01-18 19:44:02.780] [I] Process priority: 1
+[2022-01-18 19:44:02.780] [I] Initializing Snipaste...
+[2022-01-18 19:44:03.169] [I] Prefetch...
+[2022-01-18 19:44:03.180] [I] Preloaded 20 files: 12 ms
+[2022-01-18 19:44:03.500] [I] Load default ssl configuration: 331 ms
+[2022-01-18 19:44:03.653] [I] About to apply settings...
+[2022-01-18 19:44:03.687] [I] Settings applied
+[2022-01-18 19:44:03.694] [I] Log level set to: 2
+[2022-01-18 19:44:03.714] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-01-18 19:44:03.715] [I] Header version: 193
+[2022-01-18 19:44:03.715] [I] About to restore pasters...
+[2022-01-18 19:44:03.715] [I] Group 0 [MDZXKA]: "默认"
+[2022-01-18 19:44:03.715] [I] Record version: 193
+[2022-01-18 19:44:03.715] [I] To restore: 0
+[2022-01-18 19:44:03.715] [I] Pasters touched
+[2022-01-18 19:44:03.715] [I] All pasters activated: true
+[2022-01-18 19:44:03.756] [I] Unref images: 0 (0 removed)
+[2022-01-18 19:44:03.756] [I] Unref dirs: 0 (0 removed)
+[2022-01-18 19:44:03.756] [I] Empty history info files: 0 (0 removed)
+[2022-01-18 19:44:03.756] [I] Pasters restored
+[2022-01-18 19:44:03.757] [I] Launch time: 1045 ms
+[2022-01-18 19:45:04.668] [I] Silent feed checking finished
+[2022-01-18 19:45:04.668] [I] No available update
+[2022-01-18 20:14:03.731] [I] Preloaded 20 files: 15 ms [every 30.0 m]
+[2022-01-18 20:44:03.733] [I] Preloaded 20 files: 5 ms [every 30.0 m]
+[2022-01-18 21:14:03.727] [I] Preloaded 20 files: 5 ms [every 30.0 m]
+[2022-01-18 21:44:03.734] [I] Preloaded 20 files: 5 ms [every 30.0 m]
+[2022-01-18 22:14:03.747] [I] Preloaded 20 files: 22 ms [every 30.0 m]
+[2022-01-18 22:44:03.754] [I] Preloaded 20 files: 15 ms [every 30.0 m]
+[2022-01-18 23:14:03.775] [I] Preloaded 20 files: 16 ms [every 30.0 m]
+[2022-01-18 23:22:30.370] [I] Parsing command arguments [0]: (sp, snip)
+[2022-01-18 23:22:30.371] [I] Snip request: 0 (dest: 0)
+[2022-01-18 23:22:30.372] [I] Snipper: preparing...
+[2022-01-18 23:22:30.372] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-01-18 23:22:30.418] [I] Background size: QSize(1920, 1080)
+[2022-01-18 23:22:30.418] [I] Screens: 1
+[2022-01-18 23:22:30.418] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-01-18 23:22:30.420] [I] Focus set
+[2022-01-18 23:22:30.422] [I] Snipper: preparation done (0)
+[2022-01-18 23:22:30.425] [I] Snipper: about to appear...
+[2022-01-18 23:22:30.425] [I] Snipper: prepare to show...
+[2022-01-18 23:22:30.430] [I] Snipper: shown
+[2022-01-18 23:22:30.440] [I] Snipper: focus in
+[2022-01-18 23:22:30.440] [I] Snipper: ready [0.068 s]
+[2022-01-18 23:22:48.997] [I] Screenshot (1656, 157, 176 x 134) destination: pin, 
+[2022-01-18 23:22:48.997] [I] Paste image: QPoint(1656, 157)
+[2022-01-18 23:22:49.029] [I] Screenshot successfully saved: pin, 
+[2022-01-18 23:22:49.047] [I] Snipper: about to quit...
+[2022-01-18 23:22:49.062] [I] Snipper: focus out [3] (Foreground window: Paster - Snipaste)
+[2022-01-18 23:22:49.063] [I] Snipper: hidden
+[2022-01-18 23:22:49.064] [I] Snipper: quit
+[2022-01-18 23:22:49.176] [I] Snipper: scene saved
+[2022-01-18 23:22:55.821] [I] Parsing command arguments [0]: (sp, snip)
+[2022-01-18 23:22:55.821] [I] Snip request: 0 (dest: 0)
+[2022-01-18 23:22:55.821] [I] Snipper: preparing...
+[2022-01-18 23:22:55.821] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-01-18 23:22:55.859] [I] Background size: QSize(1920, 1080)
+[2022-01-18 23:22:55.859] [I] Screens: 1
+[2022-01-18 23:22:55.859] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-01-18 23:22:55.865] [I] Focus set
+[2022-01-18 23:22:55.865] [I] Snipper: preparation done (0)
+[2022-01-18 23:22:55.865] [I] Snipper: about to appear...
+[2022-01-18 23:22:55.866] [I] Snipper: prepare to show...
+[2022-01-18 23:22:55.868] [I] Snipper: shown
+[2022-01-18 23:22:55.876] [I] Snipper: focus in
+[2022-01-18 23:22:55.876] [I] Snipper: ready [0.055 s]
+[2022-01-18 23:22:59.285] [I] Screenshot (260, 53, 1646 x 875) destination: pin, 
+[2022-01-18 23:22:59.286] [I] Paste image: QPoint(260, 53)
+[2022-01-18 23:22:59.304] [I] Screenshot successfully saved: pin, 
+[2022-01-18 23:22:59.420] [I] Snipper: about to quit...
+[2022-01-18 23:22:59.437] [I] Snipper: focus out [3] (Foreground window: Paster - Snipaste)
+[2022-01-18 23:22:59.438] [I] Snipper: hidden
+[2022-01-18 23:22:59.438] [I] Snipper: quit
+[2022-01-18 23:22:59.552] [I] Snipper: scene saved
+[2022-01-18 23:32:58.785] [I] Snipaste: normal exit
+[2022-01-18 23:32:58.785] [I] Snipper: destructed
+[2022-01-20 22:23:21.999] [I] ***************************************************************
+[2022-01-20 22:23:22.001] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-01-20 22:23:22.001] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2022-01-20 22:23:22.001] [I] Cores: 12
+[2022-01-20 22:23:22.001] [I] Elevated: false
+[2022-01-20 22:23:22.001] [I] Main thread id: 0x11f4
+[2022-01-20 22:23:22.001] [I] Log level: 2
+[2022-01-20 22:23:22.001] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-01-20 22:23:22.001] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-01-20 22:23:22.001] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-01-20 22:23:22.001] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-01-20 22:23:22.001] [I] Screen scale: 1
+[2022-01-20 22:23:22.001] [I] Retina factor: 1
+[2022-01-20 22:23:22.001] [I] Screens: 1
+[2022-01-20 22:23:22.001] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-01-20 22:23:22.009] [I] Desktops: 1
+[2022-01-20 22:23:22.009] [I] OpenGL support: true
+[2022-01-20 22:23:22.251] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-01-20 22:23:22.263] [I] Settings imported
+[2022-01-20 22:23:22.264] [I] Breakpad initialized
+[2022-01-20 22:23:22.266] [I] Process priority: 1
+[2022-01-20 22:23:22.266] [I] Initializing Snipaste...
+[2022-01-20 22:23:22.968] [I] Prefetch...
+[2022-01-20 22:23:22.977] [I] Preloaded 20 files: 10 ms
+[2022-01-20 22:23:23.255] [I] Load default ssl configuration: 286 ms
+[2022-01-20 22:23:23.388] [I] About to apply settings...
+[2022-01-20 22:23:23.415] [I] Settings applied
+[2022-01-20 22:23:23.424] [I] Log level set to: 2
+[2022-01-20 22:23:23.530] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-01-20 22:23:23.534] [I] Header version: 193
+[2022-01-20 22:23:23.534] [I] About to restore pasters...
+[2022-01-20 22:23:23.534] [I] Group 0 [MDZXKA]: "默认"
+[2022-01-20 22:23:23.534] [I] Record version: 193
+[2022-01-20 22:23:23.534] [I] To restore: 0
+[2022-01-20 22:23:23.534] [I] Pasters touched
+[2022-01-20 22:23:23.534] [I] All pasters activated: true
+[2022-01-20 22:23:23.659] [I] Unref images: 1 (1 removed)
+[2022-01-20 22:23:23.659] [I] Unref dirs: 0 (0 removed)
+[2022-01-20 22:23:23.659] [I] Empty history info files: 0 (0 removed)
+[2022-01-20 22:23:23.659] [I] Pasters restored
+[2022-01-20 22:23:23.659] [I] Launch time: 1660 ms
+[2022-01-20 22:24:24.983] [I] Silent feed checking finished
+[2022-01-20 22:24:24.983] [I] No available update
+[2022-01-20 22:53:23.542] [I] Preloaded 20 files: 14 ms [every 30.0 m]
+[2022-01-20 23:23:23.552] [I] Preloaded 20 files: 9 ms [every 30.0 m]
+[2022-01-20 23:40:46.326] [I] Snipaste: normal exit
+[2022-01-20 23:40:46.327] [I] Snipper: destructed
+[2022-02-12 13:37:30.412] [I] ***************************************************************
+[2022-02-12 13:37:30.413] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-02-12 13:37:30.413] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2022-02-12 13:37:30.413] [I] Cores: 12
+[2022-02-12 13:37:30.413] [I] Elevated: false
+[2022-02-12 13:37:30.413] [I] Main thread id: 0x26eb4
+[2022-02-12 13:37:30.413] [I] Log level: 2
+[2022-02-12 13:37:30.413] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-02-12 13:37:30.413] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-02-12 13:37:30.413] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-02-12 13:37:30.413] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-02-12 13:37:30.413] [I] Screen scale: 1
+[2022-02-12 13:37:30.413] [I] Retina factor: 1
+[2022-02-12 13:37:30.414] [I] Screens: 1
+[2022-02-12 13:37:30.414] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-02-12 13:37:30.423] [I] Desktops: 1
+[2022-02-12 13:37:30.423] [I] OpenGL support: true
+[2022-02-12 13:37:30.481] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-02-12 13:37:30.489] [I] Settings imported
+[2022-02-12 13:37:30.490] [I] Breakpad initialized
+[2022-02-12 13:37:30.492] [I] Process priority: 1
+[2022-02-12 13:37:30.492] [I] Initializing Snipaste...
+[2022-02-12 13:37:30.810] [I] Prefetch...
+[2022-02-12 13:37:30.820] [I] Preloaded 20 files: 10 ms
+[2022-02-12 13:37:31.159] [I] Load default ssl configuration: 348 ms
+[2022-02-12 13:37:31.327] [I] About to apply settings...
+[2022-02-12 13:37:31.354] [I] Settings applied
+[2022-02-12 13:37:31.361] [I] Log level set to: 2
+[2022-02-12 13:37:31.379] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-02-12 13:37:31.380] [I] Header version: 193
+[2022-02-12 13:37:31.380] [I] About to restore pasters...
+[2022-02-12 13:37:31.381] [I] Group 0 [MDZXKA]: "默认"
+[2022-02-12 13:37:31.381] [I] Record version: 193
+[2022-02-12 13:37:31.381] [I] To restore: 0
+[2022-02-12 13:37:31.381] [I] Pasters touched
+[2022-02-12 13:37:31.381] [I] All pasters activated: true
+[2022-02-12 13:37:31.421] [I] Unref images: 0 (0 removed)
+[2022-02-12 13:37:31.421] [I] Unref dirs: 0 (0 removed)
+[2022-02-12 13:37:31.422] [I] Empty history info files: 0 (0 removed)
+[2022-02-12 13:37:31.422] [I] Pasters restored
+[2022-02-12 13:37:31.422] [I] Launch time: 1010 ms
+[2022-02-12 13:37:32.470] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2022-02-12 13:37:32.987] [I] Parsing command arguments [0]: (sp, snip)
+[2022-02-12 13:37:32.987] [I] Snip request: 0 (dest: 0)
+[2022-02-12 13:37:32.987] [I] Snipper: preparing...
+[2022-02-12 13:37:32.987] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-02-12 13:37:33.018] [I] Background size: QSize(1920, 1080)
+[2022-02-12 13:37:33.018] [I] Screens: 1
+[2022-02-12 13:37:33.018] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-02-12 13:37:33.022] [I] Focus set
+[2022-02-12 13:37:33.023] [I] Snipper: preparation done (0)
+[2022-02-12 13:37:33.023] [I] Snipper: about to appear...
+[2022-02-12 13:37:33.023] [I] Snipper: prepare to show...
+[2022-02-12 13:37:33.025] [I] Snipper: shown
+[2022-02-12 13:37:33.034] [I] Snipper: focus in
+[2022-02-12 13:37:33.034] [I] Snipper: ready [0.047 s]
+[2022-02-12 13:37:34.815] [I] Screenshot (1620, 960, 40 x 40) destination: none
+[2022-02-12 13:37:34.815] [I] Snipper: about to quit...
+[2022-02-12 13:37:34.818] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-02-12 13:37:34.820] [I] Snipper: hidden
+[2022-02-12 13:37:34.821] [I] Snipper: quit
+[2022-02-12 13:37:35.446] [I] Parsing command arguments [0]: (sp, snip)
+[2022-02-12 13:37:35.446] [I] Snip request: 0 (dest: 0)
+[2022-02-12 13:37:35.446] [I] Snipper: preparing...
+[2022-02-12 13:37:35.446] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-02-12 13:37:35.483] [I] Background size: QSize(1920, 1080)
+[2022-02-12 13:37:35.483] [I] Screens: 1
+[2022-02-12 13:37:35.483] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-02-12 13:37:35.488] [I] Focus set
+[2022-02-12 13:37:35.489] [I] Snipper: preparation done (0)
+[2022-02-12 13:37:35.489] [I] Snipper: about to appear...
+[2022-02-12 13:37:35.489] [I] Snipper: prepare to show...
+[2022-02-12 13:37:35.490] [I] Snipper: shown
+[2022-02-12 13:37:35.499] [I] Snipper: focus in
+[2022-02-12 13:37:35.499] [I] Snipper: ready [0.053 s]
+[2022-02-12 13:37:40.135] [I] Screenshot (1088, 290, 691 x 535) destination: pin, 
+[2022-02-12 13:37:40.135] [I] Paste image: QPoint(1088, 290)
+[2022-02-12 13:37:40.153] [I] Screenshot successfully saved: pin, 
+[2022-02-12 13:37:40.208] [I] Snipper: about to quit...
+[2022-02-12 13:37:40.222] [I] Snipper: focus out [3] (Foreground window: Paster - Snipaste)
+[2022-02-12 13:37:40.223] [I] Snipper: hidden
+[2022-02-12 13:37:40.223] [I] Snipper: quit
+[2022-02-12 13:37:40.433] [I] Snipper: scene saved
+[2022-02-12 13:38:32.312] [I] Silent feed checking finished
+[2022-02-12 13:38:32.312] [I] No available update
+[2022-02-12 14:07:31.403] [I] Preloaded 20 files: 17 ms [every 30.0 m]
+[2022-02-12 14:37:31.414] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2022-02-12 15:07:31.428] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2022-02-12 15:37:31.452] [I] Preloaded 20 files: 24 ms [every 30.0 m]
+[2022-02-12 16:07:31.463] [I] Preloaded 20 files: 23 ms [every 30.0 m]
+[2022-02-12 16:37:31.481] [I] Preloaded 20 files: 17 ms [every 30.0 m]
+[2022-02-12 17:07:31.500] [I] Preloaded 20 files: 19 ms [every 30.0 m]
+[2022-02-12 17:37:31.524] [I] Preloaded 20 files: 27 ms [every 30.0 m]
+[2022-02-12 18:07:31.552] [I] Preloaded 20 files: 19 ms [every 30.0 m]
+[2022-02-12 18:37:31.555] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2022-02-12 19:07:31.578] [I] Preloaded 20 files: 16 ms [every 30.0 m]
+[2022-02-12 19:37:31.593] [I] Preloaded 20 files: 21 ms [every 30.0 m]
+[2022-02-12 20:07:31.611] [I] Preloaded 20 files: 17 ms [every 30.0 m]
+[2022-02-12 20:37:31.646] [I] Preloaded 20 files: 20 ms [every 30.0 m]
+[2022-02-12 21:07:31.678] [I] Preloaded 20 files: 18 ms [every 30.0 m]
+[2022-02-12 21:37:31.717] [I] Preloaded 20 files: 19 ms [every 30.0 m]
+[2022-02-12 22:07:31.731] [I] Preloaded 20 files: 23 ms [every 30.0 m]
+[2022-02-12 22:37:31.752] [I] Preloaded 20 files: 16 ms [every 30.0 m]
+[2022-02-12 23:07:31.783] [I] Preloaded 20 files: 28 ms [every 30.0 m]
+[2022-02-12 23:37:31.801] [I] Preloaded 20 files: 31 ms [every 30.0 m]
+[2022-02-13 00:07:31.827] [I] Preloaded 20 files: 19 ms [every 30.0 m]
+[2022-02-13 00:37:31.835] [I] Preloaded 20 files: 18 ms [every 30.0 m]
+[2022-02-13 01:07:31.868] [I] Preloaded 20 files: 30 ms [every 30.0 m]
+[2022-02-13 01:37:31.902] [I] Preloaded 20 files: 32 ms [every 30.0 m]
+[2022-02-13 02:07:31.937] [I] Preloaded 20 files: 29 ms [every 30.0 m]
+[2022-02-13 02:33:21.790] [I] Snipaste: normal exit
+[2022-02-13 02:33:21.791] [I] Snipper: destructed
+[2022-02-23 23:59:51.519] [I] ***************************************************************
+[2022-02-23 23:59:51.520] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-02-23 23:59:51.520] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2022-02-23 23:59:51.520] [I] Cores: 12
+[2022-02-23 23:59:51.520] [I] Elevated: false
+[2022-02-23 23:59:51.520] [I] Main thread id: 0x18ddc
+[2022-02-23 23:59:51.521] [I] Log level: 2
+[2022-02-23 23:59:51.521] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-02-23 23:59:51.521] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-02-23 23:59:51.521] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-02-23 23:59:51.521] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-02-23 23:59:51.521] [I] Screen scale: 1
+[2022-02-23 23:59:51.521] [I] Retina factor: 1
+[2022-02-23 23:59:51.521] [I] Screens: 1
+[2022-02-23 23:59:51.521] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-02-23 23:59:51.533] [I] Desktops: 1
+[2022-02-23 23:59:51.533] [I] OpenGL support: true
+[2022-02-23 23:59:51.599] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-02-23 23:59:51.607] [I] Settings imported
+[2022-02-23 23:59:51.608] [I] Breakpad initialized
+[2022-02-23 23:59:51.610] [I] Process priority: 1
+[2022-02-23 23:59:51.610] [I] Initializing Snipaste...
+[2022-02-23 23:59:52.070] [I] Prefetch...
+[2022-02-23 23:59:52.079] [I] Preloaded 20 files: 10 ms
+[2022-02-23 23:59:52.451] [I] Load default ssl configuration: 382 ms
+[2022-02-23 23:59:52.670] [I] About to apply settings...
+[2022-02-23 23:59:52.730] [I] Settings applied
+[2022-02-23 23:59:52.745] [I] Log level set to: 2
+[2022-02-23 23:59:52.784] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-02-23 23:59:52.786] [I] Header version: 193
+[2022-02-23 23:59:52.786] [I] About to restore pasters...
+[2022-02-23 23:59:52.787] [I] Group 0 [MDZXKA]: "默认"
+[2022-02-23 23:59:52.787] [I] Record version: 193
+[2022-02-23 23:59:52.787] [I] To restore: 0
+[2022-02-23 23:59:52.787] [I] Pasters touched
+[2022-02-23 23:59:52.787] [I] All pasters activated: true
+[2022-02-23 23:59:52.892] [I] Unref images: 1 (1 removed)
+[2022-02-23 23:59:52.892] [I] Unref dirs: 0 (0 removed)
+[2022-02-23 23:59:52.893] [I] Empty history info files: 0 (0 removed)
+[2022-02-23 23:59:52.893] [I] Pasters restored
+[2022-02-23 23:59:52.893] [I] Launch time: 1375 ms
+[2022-02-24 00:00:53.960] [I] Silent feed checking finished
+[2022-02-24 00:00:53.960] [I] No available update
+[2022-02-24 00:29:52.801] [I] Preloaded 20 files: 21 ms [every 30.0 m]
+[2022-02-24 00:59:52.840] [I] Preloaded 20 files: 33 ms [every 30.0 m]
+[2022-02-24 01:29:52.871] [I] Preloaded 20 files: 18 ms [every 30.0 m]
+[2022-02-24 01:59:52.900] [I] Preloaded 20 files: 29 ms [every 30.0 m]
+[2022-02-24 02:29:52.938] [I] Preloaded 20 files: 29 ms [every 30.0 m]
+[2022-02-24 02:39:57.363] [I] Snipaste: normal exit
+[2022-02-24 02:39:57.364] [I] Snipper: destructed
+[2022-03-02 16:03:25.628] [I] ***************************************************************
+[2022-03-02 16:03:25.630] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-03-02 16:03:25.630] [I] OS: Windows 10 (10.0) [10.0.19042]
+[2022-03-02 16:03:25.630] [I] Cores: 12
+[2022-03-02 16:03:25.630] [I] Elevated: false
+[2022-03-02 16:03:25.630] [I] Main thread id: 0x5bd8
+[2022-03-02 16:03:25.630] [I] Log level: 2
+[2022-03-02 16:03:25.630] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-02 16:03:25.630] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-02 16:03:25.630] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-02 16:03:25.630] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-03-02 16:03:25.630] [I] Screen scale: 1
+[2022-03-02 16:03:25.630] [I] Retina factor: 1
+[2022-03-02 16:03:25.630] [I] Screens: 1
+[2022-03-02 16:03:25.630] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-02 16:03:25.639] [I] Desktops: 1
+[2022-03-02 16:03:25.639] [I] OpenGL support: true
+[2022-03-02 16:03:25.687] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-02 16:03:25.696] [I] Settings imported
+[2022-03-02 16:03:25.697] [I] Breakpad initialized
+[2022-03-02 16:03:25.701] [I] Process priority: 1
+[2022-03-02 16:03:25.702] [I] Initializing Snipaste...
+[2022-03-02 16:03:26.065] [I] Prefetch...
+[2022-03-02 16:03:26.075] [I] Preloaded 20 files: 10 ms
+[2022-03-02 16:03:26.392] [I] Load default ssl configuration: 326 ms
+[2022-03-02 16:03:26.551] [I] About to apply settings...
+[2022-03-02 16:03:26.592] [I] Settings applied
+[2022-03-02 16:03:26.600] [I] Log level set to: 2
+[2022-03-02 16:03:26.617] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-03-02 16:03:26.618] [I] Header version: 193
+[2022-03-02 16:03:26.618] [I] About to restore pasters...
+[2022-03-02 16:03:26.619] [I] Group 0 [MDZXKA]: "默认"
+[2022-03-02 16:03:26.619] [I] Record version: 193
+[2022-03-02 16:03:26.619] [I] To restore: 0
+[2022-03-02 16:03:26.619] [I] Pasters touched
+[2022-03-02 16:03:26.619] [I] All pasters activated: true
+[2022-03-02 16:03:26.666] [I] Unref images: 0 (0 removed)
+[2022-03-02 16:03:26.666] [I] Unref dirs: 0 (0 removed)
+[2022-03-02 16:03:26.666] [I] Empty history info files: 0 (0 removed)
+[2022-03-02 16:03:26.666] [I] Pasters restored
+[2022-03-02 16:03:26.667] [I] Launch time: 1038 ms
+[2022-03-02 16:03:29.676] [I] Parsing command arguments [0]: (sp, snip)
+[2022-03-02 16:03:29.677] [I] Snip request: 0 (dest: 0)
+[2022-03-02 16:03:29.677] [I] Snipper: preparing...
+[2022-03-02 16:03:29.677] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-03-02 16:03:29.719] [I] Background size: QSize(1920, 1080)
+[2022-03-02 16:03:29.719] [I] Screens: 1
+[2022-03-02 16:03:29.719] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-02 16:03:29.736] [I] Focus set
+[2022-03-02 16:03:29.737] [I] Snipper: preparation done (0)
+[2022-03-02 16:03:29.737] [I] Snipper: about to appear...
+[2022-03-02 16:03:29.737] [I] Snipper: prepare to show...
+[2022-03-02 16:03:29.740] [I] Snipper: shown
+[2022-03-02 16:03:29.749] [I] Snipper: focus in
+[2022-03-02 16:03:29.749] [I] Snipper: ready [0.073 s]
+[2022-03-02 16:03:42.964] [I] Screenshot (0, 69, 1920 x 971) destination: none
+[2022-03-02 16:03:42.964] [I] Snipper: about to quit...
+[2022-03-02 16:03:42.976] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-03-02 16:03:42.987] [I] Snipper: hidden
+[2022-03-02 16:03:42.987] [I] Snipper: quit
+[2022-03-02 16:03:57.779] [I] Parsing command arguments [0]: (sp, snip)
+[2022-03-02 16:03:57.779] [I] Snip request: 0 (dest: 0)
+[2022-03-02 16:03:57.779] [I] Snipper: preparing...
+[2022-03-02 16:03:57.779] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-03-02 16:03:57.818] [I] Background size: QSize(1920, 1080)
+[2022-03-02 16:03:57.818] [I] Screens: 1
+[2022-03-02 16:03:57.818] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-02 16:03:57.842] [I] Focus set
+[2022-03-02 16:03:57.842] [I] Snipper: preparation done (0)
+[2022-03-02 16:03:57.843] [I] Snipper: about to appear...
+[2022-03-02 16:03:57.843] [I] Snipper: prepare to show...
+[2022-03-02 16:03:57.846] [I] Snipper: shown
+[2022-03-02 16:03:57.856] [I] Snipper: focus in
+[2022-03-02 16:03:57.856] [I] Snipper: ready [0.077 s]
+[2022-03-02 16:04:05.266] [I] Screenshot (547, 411, 51 x 43) destination: none
+[2022-03-02 16:04:05.266] [I] Snipper: about to quit...
+[2022-03-02 16:04:05.272] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-03-02 16:04:05.279] [I] Snipper: hidden
+[2022-03-02 16:04:05.280] [I] Snipper: quit
+[2022-03-02 16:04:38.681] [W] Feed error: 下载更新源失败。网络错误：Operation canceled
+[2022-03-02 16:04:41.812] [I] Silent feed checking finished
+[2022-03-02 16:04:41.812] [I] No available update
+[2022-03-02 16:33:24.866] [I] Preloaded 20 files: 29 ms [every 30.0 m]
+[2022-03-02 16:45:32.396] [I] Snipaste: normal exit
+[2022-03-02 16:45:32.397] [I] Snipper: destructed
+[2022-03-12 18:23:29.336] [I] ***************************************************************
+[2022-03-12 18:23:29.337] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-03-12 18:23:29.338] [I] OS: Windows 10 (10.0) [10.0.19044]
+[2022-03-12 18:23:29.338] [I] Cores: 12
+[2022-03-12 18:23:29.338] [I] Elevated: false
+[2022-03-12 18:23:29.338] [I] Main thread id: 0xa9bc
+[2022-03-12 18:23:29.338] [I] Log level: 2
+[2022-03-12 18:23:29.338] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-12 18:23:29.338] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-12 18:23:29.338] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-12 18:23:29.338] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-03-12 18:23:29.338] [I] Screen scale: 1
+[2022-03-12 18:23:29.338] [I] Retina factor: 1
+[2022-03-12 18:23:29.338] [I] Screens: 1
+[2022-03-12 18:23:29.339] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-12 18:23:29.349] [I] Desktops: 1
+[2022-03-12 18:23:29.349] [I] OpenGL support: true
+[2022-03-12 18:23:29.412] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-12 18:23:29.421] [I] Settings imported
+[2022-03-12 18:23:29.422] [I] Breakpad initialized
+[2022-03-12 18:23:29.426] [I] Process priority: 1
+[2022-03-12 18:23:29.426] [I] Initializing Snipaste...
+[2022-03-12 18:23:29.741] [I] Prefetch...
+[2022-03-12 18:23:29.752] [I] Preloaded 20 files: 11 ms
+[2022-03-12 18:23:30.088] [I] Load default ssl configuration: 347 ms
+[2022-03-12 18:23:30.263] [I] About to apply settings...
+[2022-03-12 18:23:30.300] [I] Settings applied
+[2022-03-12 18:23:30.305] [I] Log level set to: 2
+[2022-03-12 18:23:30.324] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-03-12 18:23:30.325] [I] Header version: 193
+[2022-03-12 18:23:30.325] [I] About to restore pasters...
+[2022-03-12 18:23:30.325] [I] Group 0 [MDZXKA]: "默认"
+[2022-03-12 18:23:30.325] [I] Record version: 193
+[2022-03-12 18:23:30.325] [I] To restore: 0
+[2022-03-12 18:23:30.325] [I] Pasters touched
+[2022-03-12 18:23:30.325] [I] All pasters activated: true
+[2022-03-12 18:23:30.366] [I] Unref images: 0 (0 removed)
+[2022-03-12 18:23:30.366] [I] Unref dirs: 0 (0 removed)
+[2022-03-12 18:23:30.367] [I] Empty history info files: 0 (0 removed)
+[2022-03-12 18:23:30.367] [I] Pasters restored
+[2022-03-12 18:23:30.367] [I] Launch time: 1032 ms
+[2022-03-12 18:23:31.409] [I] Parsing command arguments [0]: (sp, snip)
+[2022-03-12 18:23:31.409] [I] Snip request: 0 (dest: 0)
+[2022-03-12 18:23:31.409] [I] Snipper: preparing...
+[2022-03-12 18:23:31.409] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-03-12 18:23:31.439] [I] Background size: QSize(1920, 1080)
+[2022-03-12 18:23:31.439] [I] Screens: 1
+[2022-03-12 18:23:31.439] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-12 18:23:31.451] [I] Focus set
+[2022-03-12 18:23:31.454] [I] Snipper: preparation done (0)
+[2022-03-12 18:23:31.454] [I] Snipper: about to appear...
+[2022-03-12 18:23:31.454] [I] Snipper: prepare to show...
+[2022-03-12 18:23:31.458] [I] Snipper: shown
+[2022-03-12 18:23:31.467] [I] Snipper: focus in
+[2022-03-12 18:23:31.467] [I] Snipper: ready [0.058 s]
+[2022-03-12 18:23:37.931] [I] Screenshot (822, 413, 342 x 329) destination: pin, 
+[2022-03-12 18:23:37.931] [I] Paste image: QPoint(822, 413)
+[2022-03-12 18:23:37.957] [I] Screenshot successfully saved: pin, 
+[2022-03-12 18:23:38.033] [I] Snipper: about to quit...
+[2022-03-12 18:23:38.062] [I] Snipper: focus out [3] (Foreground window: Paster - Snipaste)
+[2022-03-12 18:23:38.063] [I] Snipper: hidden
+[2022-03-12 18:23:38.064] [I] Snipper: quit
+[2022-03-12 18:23:38.788] [I] Snipper: scene saved
+[2022-03-12 18:24:31.919] [I] Silent feed checking finished
+[2022-03-12 18:24:31.919] [I] No available update
+[2022-03-12 18:47:45.165] [I] Snipaste: normal exit
+[2022-03-12 18:47:45.165] [I] Snipper: destructed
+[2022-03-26 18:44:10.151] [I] ***************************************************************
+[2022-03-26 18:44:10.152] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-03-26 18:44:10.152] [I] OS: Windows 10 (10.0) [10.0.19044]
+[2022-03-26 18:44:10.152] [I] Cores: 12
+[2022-03-26 18:44:10.152] [I] Elevated: false
+[2022-03-26 18:44:10.152] [I] Main thread id: 0x1cc0
+[2022-03-26 18:44:10.152] [I] Log level: 2
+[2022-03-26 18:44:10.152] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-26 18:44:10.152] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-26 18:44:10.152] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-26 18:44:10.152] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-03-26 18:44:10.152] [I] Screen scale: 1
+[2022-03-26 18:44:10.152] [I] Retina factor: 1
+[2022-03-26 18:44:10.152] [I] Screens: 1
+[2022-03-26 18:44:10.153] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-26 18:44:10.162] [I] Desktops: 1
+[2022-03-26 18:44:10.162] [I] OpenGL support: true
+[2022-03-26 18:44:10.203] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-26 18:44:10.211] [I] Settings imported
+[2022-03-26 18:44:10.212] [I] Breakpad initialized
+[2022-03-26 18:44:10.214] [I] Process priority: 1
+[2022-03-26 18:44:10.215] [I] Initializing Snipaste...
+[2022-03-26 18:44:10.501] [I] Prefetch...
+[2022-03-26 18:44:10.511] [I] Preloaded 20 files: 9 ms
+[2022-03-26 18:44:10.787] [I] Load default ssl configuration: 286 ms
+[2022-03-26 18:44:10.937] [I] About to apply settings...
+[2022-03-26 18:44:10.963] [I] Settings applied
+[2022-03-26 18:44:10.968] [I] Log level set to: 2
+[2022-03-26 18:44:10.985] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-03-26 18:44:10.986] [I] Header version: 193
+[2022-03-26 18:44:10.986] [I] About to restore pasters...
+[2022-03-26 18:44:10.987] [I] Group 0 [MDZXKA]: "默认"
+[2022-03-26 18:44:10.987] [I] Record version: 193
+[2022-03-26 18:44:10.987] [I] To restore: 0
+[2022-03-26 18:44:10.987] [I] Pasters touched
+[2022-03-26 18:44:10.987] [I] All pasters activated: true
+[2022-03-26 18:44:11.027] [I] Unref images: 0 (0 removed)
+[2022-03-26 18:44:11.027] [I] Unref dirs: 0 (0 removed)
+[2022-03-26 18:44:11.028] [I] Empty history info files: 0 (0 removed)
+[2022-03-26 18:44:11.028] [I] Pasters restored
+[2022-03-26 18:44:11.028] [I] Launch time: 876 ms
+[2022-03-26 18:44:14.544] [I] Parsing command arguments [0]: (sp, snip)
+[2022-03-26 18:44:14.544] [I] Snip request: 0 (dest: 0)
+[2022-03-26 18:44:14.544] [I] Snipper: preparing...
+[2022-03-26 18:44:14.544] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-03-26 18:44:14.580] [I] Background size: QSize(1920, 1080)
+[2022-03-26 18:44:14.580] [I] Screens: 1
+[2022-03-26 18:44:14.580] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-26 18:44:14.585] [I] Focus set
+[2022-03-26 18:44:14.585] [I] Snipper: preparation done (0)
+[2022-03-26 18:44:14.585] [I] Snipper: about to appear...
+[2022-03-26 18:44:14.585] [I] Snipper: prepare to show...
+[2022-03-26 18:44:14.588] [I] Snipper: shown
+[2022-03-26 18:44:14.596] [I] Snipper: focus in
+[2022-03-26 18:44:14.596] [I] Snipper: ready [0.053 s]
+[2022-03-26 18:44:18.148] [I] Screenshot (357, 291, 541 x 297) destination: none
+[2022-03-26 18:44:18.148] [I] Snipper: about to quit...
+[2022-03-26 18:44:18.151] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-03-26 18:44:18.155] [I] Snipper: hidden
+[2022-03-26 18:44:18.156] [I] Snipper: quit
+[2022-03-26 18:44:21.861] [I] Parsing command arguments [1]: (sp, snip)
+[2022-03-26 18:44:21.861] [I] Snip request: 0 (dest: 0)
+[2022-03-26 18:44:21.861] [I] Snipper: preparing...
+[2022-03-26 18:44:21.861] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2022-03-26 18:44:21.886] [I] Background size: QSize(1920, 1080)
+[2022-03-26 18:44:21.886] [I] Screens: 1
+[2022-03-26 18:44:21.886] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-26 18:44:21.891] [I] Focus set
+[2022-03-26 18:44:21.892] [I] Snipper: preparation done (0)
+[2022-03-26 18:44:21.893] [I] Snipper: about to appear...
+[2022-03-26 18:44:21.893] [I] Snipper: prepare to show...
+[2022-03-26 18:44:21.895] [I] Snipper: shown
+[2022-03-26 18:44:21.904] [I] Snipper: focus in
+[2022-03-26 18:44:21.904] [I] Snipper: ready [0.043000000000000003 s]
+[2022-03-26 18:44:23.809] [I] Screenshot (388, 318, 258 x 122) destination: none
+[2022-03-26 18:44:23.809] [I] Snipper: about to quit...
+[2022-03-26 18:44:23.812] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-03-26 18:44:23.814] [I] Snipper: hidden
+[2022-03-26 18:44:23.815] [I] Snipper: quit
+[2022-03-26 18:45:11.646] [I] Silent feed checking finished
+[2022-03-26 18:45:11.646] [I] No available update
+[2022-03-26 19:14:10.990] [I] Preloaded 20 files: 14 ms [every 30.0 m]
+[2022-03-26 19:32:48.099] [I] Snipaste: normal exit
+[2022-03-26 19:32:48.099] [I] Snipper: destructed
+[2022-03-26 23:55:45.056] [I] ***************************************************************
+[2022-03-26 23:55:45.057] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-03-26 23:55:45.057] [I] OS: Windows 10 (10.0) [10.0.19044]
+[2022-03-26 23:55:45.057] [I] Cores: 12
+[2022-03-26 23:55:45.057] [I] Elevated: false
+[2022-03-26 23:55:45.057] [I] Main thread id: 0xee4
+[2022-03-26 23:55:45.057] [I] Log level: 2
+[2022-03-26 23:55:45.057] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-26 23:55:45.057] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-03-26 23:55:45.057] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-26 23:55:45.057] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-03-26 23:55:45.057] [I] Screen scale: 1
+[2022-03-26 23:55:45.057] [I] Retina factor: 1
+[2022-03-26 23:55:45.057] [I] Screens: 1
+[2022-03-26 23:55:45.058] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-03-26 23:55:45.068] [I] Desktops: 1
+[2022-03-26 23:55:45.068] [I] OpenGL support: true
+[2022-03-26 23:55:45.112] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-03-26 23:55:45.120] [I] Settings imported
+[2022-03-26 23:55:45.121] [I] Breakpad initialized
+[2022-03-26 23:55:45.123] [I] Process priority: 1
+[2022-03-26 23:55:45.124] [I] Initializing Snipaste...
+[2022-03-26 23:55:45.477] [I] Prefetch...
+[2022-03-26 23:55:45.489] [I] Preloaded 20 files: 11 ms
+[2022-03-26 23:55:45.491] [I] About to apply settings...
+[2022-03-26 23:55:45.526] [I] Settings applied
+[2022-03-26 23:55:45.527] [I] Load default ssl configuration: 50 ms
+[2022-03-26 23:55:45.532] [I] Log level set to: 2
+[2022-03-26 23:55:45.549] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-03-26 23:55:45.550] [I] Header version: 193
+[2022-03-26 23:55:45.550] [I] About to restore pasters...
+[2022-03-26 23:55:45.550] [I] Group 0 [MDZXKA]: "默认"
+[2022-03-26 23:55:45.550] [I] Record version: 193
+[2022-03-26 23:55:45.550] [I] To restore: 0
+[2022-03-26 23:55:45.550] [I] Pasters touched
+[2022-03-26 23:55:45.550] [I] All pasters activated: true
+[2022-03-26 23:55:45.589] [I] Unref images: 0 (0 removed)
+[2022-03-26 23:55:45.589] [I] Unref dirs: 0 (0 removed)
+[2022-03-26 23:55:45.589] [I] Empty history info files: 0 (0 removed)
+[2022-03-26 23:55:45.589] [I] Pasters restored
+[2022-03-26 23:55:45.589] [I] Launch time: 533 ms
+[2022-03-26 23:56:46.438] [I] Silent feed checking finished
+[2022-03-26 23:56:46.438] [I] No available update
+[2022-03-27 00:25:45.565] [I] Preloaded 20 files: 13 ms [every 30.0 m]
+[2022-03-27 00:55:45.569] [I] Preloaded 20 files: 15 ms [every 30.0 m]
+[2022-03-27 01:14:30.322] [I] Snipaste: normal exit
+[2022-03-27 01:14:30.322] [I] Snipper: destructed
+[2022-04-03 22:44:30.463] [I] ***************************************************************
+[2022-04-03 22:44:30.464] [I] Snipaste 2.7.1-Beta x64 (Desktop) (Qt 5.12.6)
+[2022-04-03 22:44:30.464] [I] OS: Windows 10 (10.0) [10.0.19044]
+[2022-04-03 22:44:30.464] [I] Cores: 12
+[2022-04-03 22:44:30.464] [I] Elevated: false
+[2022-04-03 22:44:30.464] [I] Main thread id: 0xbc64
+[2022-04-03 22:44:30.464] [I] Log level: 2
+[2022-04-03 22:44:30.464] [I] Application dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-04-03 22:44:30.464] [I] Working dir: F:/E盘/编程学习/一些小软件/snipeer
+[2022-04-03 22:44:30.464] [I] Config: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-04-03 22:44:30.464] [I] Library paths: (F:/E盘/编程学习/一些小软件/snipeer)
+[2022-04-03 22:44:30.464] [I] Screen scale: 1
+[2022-04-03 22:44:30.464] [I] Retina factor: 1
+[2022-04-03 22:44:30.464] [I] Screens: 1
+[2022-04-03 22:44:30.464] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-04-03 22:44:30.474] [I] Desktops: 1
+[2022-04-03 22:44:30.474] [I] OpenGL support: true
+[2022-04-03 22:44:30.518] [I] About to import settings from: F:/E盘/编程学习/一些小软件/snipeer/config.ini
+[2022-04-03 22:44:30.526] [I] Settings imported
+[2022-04-03 22:44:30.527] [I] Breakpad initialized
+[2022-04-03 22:44:30.529] [I] Process priority: 1
+[2022-04-03 22:44:30.529] [I] Initializing Snipaste...
+[2022-04-03 22:44:30.973] [I] Prefetch...
+[2022-04-03 22:44:30.981] [I] Preloaded 20 files: 8 ms
+[2022-04-03 22:44:31.286] [I] Load default ssl configuration: 314 ms
+[2022-04-03 22:44:31.468] [I] About to apply settings...
+[2022-04-03 22:44:31.505] [I] Settings applied
+[2022-04-03 22:44:31.515] [I] Log level set to: 2
+[2022-04-03 22:44:31.537] [I] History dir: F:/E盘/编程学习/一些小软件/snipeer/history
+[2022-04-03 22:44:31.538] [I] Header version: 193
+[2022-04-03 22:44:31.538] [I] About to restore pasters...
+[2022-04-03 22:44:31.539] [I] Group 0 [MDZXKA]: "默认"
+[2022-04-03 22:44:31.539] [I] Record version: 193
+[2022-04-03 22:44:31.539] [I] To restore: 0
+[2022-04-03 22:44:31.539] [I] Pasters touched
+[2022-04-03 22:44:31.539] [I] All pasters activated: true
+[2022-04-03 22:44:31.585] [I] Unref images: 0 (0 removed)
+[2022-04-03 22:44:31.585] [I] Unref dirs: 0 (0 removed)
+[2022-04-03 22:44:31.586] [I] Empty history info files: 0 (0 removed)
+[2022-04-03 22:44:31.586] [I] Pasters restored
+[2022-04-03 22:44:31.586] [I] Launch time: 1123 ms
+[2022-04-03 22:45:42.001] [W] Feed error: 下载更新源失败。网络错误：499
+[2022-04-03 22:45:43.443] [I] Silent feed checking finished
+[2022-04-03 22:45:43.443] [I] No available update
+[2022-04-03 23:14:31.572] [I] Preloaded 20 files: 31 ms [every 30.0 m]
+[2022-04-03 23:44:31.592] [I] Preloaded 20 files: 31 ms [every 30.0 m]
+[2022-04-04 00:13:59.556] [I] Snipaste: normal exit
+[2022-04-04 00:13:59.556] [I] Snipper: destructed

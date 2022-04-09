@@ -1,0 +1,16 @@
+if(boolean_expression 1)
+{
+   // 当布尔表达式 1 为真时执行
+}
+else if( boolean_expression 2)
+{
+   // 当布尔表达式 2 为真时执行
+}
+else if( boolean_expression 3)
+{
+   // 当布尔表达式 3 为真时执行
+}
+else 
+{
+   // 当上面条件都不为真时执行
+}

@@ -1,0 +1,2 @@
+nth_element( first , n , last )
+求[first, last]这个区间中第n大小的元素，如果参数加入了compare函数，就按compare函数的方式比较。

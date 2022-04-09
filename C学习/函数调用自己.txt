@@ -1,0 +1,19 @@
+#include<stdio.h>
+void Solution(int b,int n,int m,int a)
+{
+    if(b!=n)
+    {
+        printf("%d",a+m);
+        printf(" ");
+        a=a+m;
+        b=b+1;
+        Solution(b,n,m,a);                                   //函数调用自己。
+    }
+}
+int main()
+{
+    int b=1;
+    int n,m,a;
+    scanf("%d %d %d",&n,&m,&a);
+    Solution(b,n,m,a);
+}

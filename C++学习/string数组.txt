@@ -1,0 +1,7 @@
+确立string类型Name并输入Name后
+相当于建立了一个数组Name【】，它的每个地址储存的是字符串的每个字符，挨个排列。
+
+Name=WuYI
+
+Name【0】=W
+Name【1】=u

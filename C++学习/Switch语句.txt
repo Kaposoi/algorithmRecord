@@ -1,0 +1,10 @@
+格式如下：
+switch（expression）（是case要判断的数据）
+{
+case 1（const）：
+*code（要执行的步骤）；
+case 2（const）；
+*code； break；   检测到break后才会结束当前的switch运行，不然会继续进行以下步骤，直到检测到break为止。     但是不会结束循环。
+...
+
+注意：case后面只能是一个常量！不能进行判断。

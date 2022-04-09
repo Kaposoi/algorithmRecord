@@ -1,0 +1,3 @@
+pair函数可以用于存储一对数据。
+pair < int, int > q[n];
+cin >> q[0].first >> q[ 0 ].second

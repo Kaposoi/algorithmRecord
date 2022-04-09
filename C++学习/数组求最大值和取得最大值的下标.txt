@@ -1,0 +1,32 @@
+#include<iostream>
+using namespace std;
+int selectM(int a,int b)
+{
+    int c;
+    if(a>=b) c=a;
+    else c=b;
+    return c;
+}
+
+
+
+int main()
+{
+ int n,a,array[15],c;
+ cin>>n;
+ for(int i=0;i<n;i++)
+ {
+     cin>>a;
+     array[i]=a;
+ }
+ int max=0,countm;
+ for(int k=0;k<n;k++)
+ {
+ if(array[k]>max) 
+ {
+     max=array[k];
+     countm=k;
+ }
+ }
+ cout<<max<<" "<<countm;
+}

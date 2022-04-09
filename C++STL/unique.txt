@@ -1,0 +1,3 @@
+std::unique( iterator_begin , iterator_end ) 用于去除相邻元素的重复元素，并且返回去除后不重复排序末尾元素的下一个元素。(下标+1);
+std::unique( arr , arr + 10 );
+使用前请先用sort排序.

@@ -1,0 +1,5 @@
+保留小数：
+cout<<setiosflags(ios::fixed)<<setprecision(3)<<a;
+保留有效数字
+cout<<setprecision(3)<<a;
+(需要iomanip）

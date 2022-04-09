@@ -1,0 +1,40 @@
+算阶乘，幂方等可能会导致数据溢出（尤其是级数）
+此时可以考虑利用while循环，利用上一个数据，来减少计算量。
+
+eq：#include<iostream>
+#include<math.h>
+#include<iomanip>
+using namespace std;
+long long int Stair(int a)
+{
+    int b=1,i;
+    if(a==0) b=1;
+    else 
+    for(i=1;i<=a;i++)
+        b=b*i;
+    return b;
+}
+int main()
+{
+  double a,c=0,d,e,t;
+  const double pi=3.1415926535;
+  int n=1,i;
+  cin>>a;
+  if(a>-2*pi || a<2*pi)
+   for(i=1;i>=0;i++) 
+  {
+    a=a-2*pi;
+    if(a<2*pi && a>-2*pi) break;
+  }
+  t=a;
+  d=a;
+  e=fabs(sin(a)-a);
+  while(e>=1e-5)
+  {
+ e=fabs(sin(a)-d);
+  n=n+2;
+  t=t*(-1)*(a*a)/(double)(n)/((double)(n)-1); （就是这段，利用泰勒展开计算sin近似值）
+  d=d+t;
+  }
+  cout<<setiosflags(ios::fixed)<<setprecision(3)<<d;
+}

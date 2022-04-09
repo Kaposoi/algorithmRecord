@@ -1,0 +1,28 @@
+https://www.runoob.com/cplusplus/cpp-data-structures.html
+1：结构体的定义。
+struct type_name {
+member_type1 member_name1;
+member_type2 member_name2;
+member_type3 member_name3;
+.
+.
+} object_names;（最后一个分号之前可以定义多个结构变量）
+也可以后面定义。
+
+type_name name1
+type_name name2
+2：访问结构成员
+
+成员访问运算符（.）
+
+name1.member_name1/2/3 可代表结构体的某个成员。
+
+struct Books
+{
+   char  title[50];
+   char  author[50];
+   char  subject[100];
+   int   book_id;
+};
+Books Book1；  /定义结构体类型books的变量。
+Book1.title

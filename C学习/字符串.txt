@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<malloc.h>
+int main()
+{
+    char *array[6]     ;                                //这里的6指的是数组的元素数量。
+   int n=20,i=0;                                        // n是字符串字符最大数量。
+   int *pointer,count=0;
+   pointer=&n;                                          // 对指向n的指针进行强制类型转换，转换为char类型。
+   char *p1=(char*)pointer;
+    
+    do
+    {
+        array[i]=(char *)malloc(sizeof((char)*p1));     //为每个字符串分配空间。
+        scanf("%s",array[i]);                           // 数组就是指针，array[i]已是地址，因此不用再取地址。
+        count++;                                        //输入字符串，编译器会自动取回车或者空格作为分隔符。
+        i++;                     
+    }while(getchar()!='\n');                            //用getchar()读取回车作为结束循环的条件，getchar()会把第一个字符录入缓冲区，用于判断是否是'\n'。
+    for(int k=(count-1);k>=0;k--)                       //因此要用do while循环，先执行程序，录入第一个字符串，防止getchar()将第一个字符录入缓冲区后结果丢失。
+    {
+        printf("%s",array[k]);                          //将字符串倒序输出。
+        printf(" ");
+    }
+}

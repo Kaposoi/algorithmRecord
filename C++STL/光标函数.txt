@@ -1,0 +1,7 @@
+void gotoxy(int x, int y) {
+	COORD p;
+	HANDLE handle = GetStdHandle(STD_OUTPUT_HANDLE);
+	p.X = x;
+	p.Y = y;
+	SetConsoleCursorPosition(handle, p);
+}

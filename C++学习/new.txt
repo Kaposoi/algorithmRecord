@@ -1,0 +1,5 @@
+new也是分配地址，相当于malloc
+但是更方便
+new int【5】
+=
+（int *）malloc（sizeof（int）*5）

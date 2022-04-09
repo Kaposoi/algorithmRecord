@@ -1,0 +1,18 @@
+cin cout对空格不读取。   getchar()!='\n'命令代码读取回车符号时候结束循环，也就是按回车键，循环结束。
+#include<iostream>
+#include<string>
+using namespace std;
+int main()
+{
+    string array[100];
+    int count=0;
+    do（注意，循环若用while语句会导致第一个字符丢失，）
+     {
+         cin >> array[count];
+       count++;
+   } while (getchar() != '\n');
+    for(int i=count-1;i>=0;i--)
+    {
+        cout<<array[i]<<" ";
+    }
+}

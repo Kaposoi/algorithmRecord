@@ -1,0 +1,3 @@
+指令为
+Name（数组名）.length（）
+Name（数组名）.size（）
